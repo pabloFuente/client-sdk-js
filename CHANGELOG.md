@@ -1,5 +1,11 @@
 # Change Log
 
+## 2.18.2
+
+### Patch Changes
+
+- Export CheckStatus as enum, not just type - [#1855](https://github.com/livekit/client-sdk-js/pull/1855) ([@Ludobaka](https://github.com/Ludobaka))
+
 ## 2.18.1
 
 ### Patch Changes
